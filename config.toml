@@ -1,0 +1,4 @@
+baseURL = "https://debigulator.app/"
+languageCode = "en-us"
+title = "Debigulator"
+theme = "debigulator"
